@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\FashionStore\\FashionStore\\FashionStore.csproj",
+      "projectUniqueName": "D:\\FashionStore\\FashionStore\\FashionStore.csproj",
       "projectName": "FashionStore",
-      "projectPath": "D:\\Projects\\FashionStore\\FashionStore\\FashionStore.csproj",
+      "projectPath": "D:\\FashionStore\\FashionStore\\FashionStore.csproj",
       "packagesPath": "C:\\Users\\p.quay\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\FashionStore\\FashionStore\\obj\\",
+      "outputPath": "D:\\FashionStore\\FashionStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

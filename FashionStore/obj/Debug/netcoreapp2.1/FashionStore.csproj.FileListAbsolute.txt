@@ -9,3 +9,14 @@ D:\Projects\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.Assem
 D:\Projects\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.AssemblyInfo.cs
 D:\Projects\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.dll
 D:\Projects\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.pdb
+D:\FashionStore\FashionStore\bin\Debug\netcoreapp2.1\FashionStore.deps.json
+D:\FashionStore\FashionStore\bin\Debug\netcoreapp2.1\FashionStore.runtimeconfig.json
+D:\FashionStore\FashionStore\bin\Debug\netcoreapp2.1\FashionStore.runtimeconfig.dev.json
+D:\FashionStore\FashionStore\bin\Debug\netcoreapp2.1\FashionStore.dll
+D:\FashionStore\FashionStore\bin\Debug\netcoreapp2.1\FashionStore.pdb
+D:\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.csprojAssemblyReference.cache
+D:\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.csproj.CoreCompileInputs.cache
+D:\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.AssemblyInfoInputs.cache
+D:\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.AssemblyInfo.cs
+D:\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.dll
+D:\FashionStore\FashionStore\obj\Debug\netcoreapp2.1\FashionStore.pdb
